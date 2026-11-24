@@ -1,0 +1,6 @@
+{
+  "name": "Livrotec - Biblioteca Escolar",
+  "description": "Biblioteca digital interativa para o Ceti Gov. Alberto Tavares Silva com catálogo temático, ranking de livros populares, quiz 'Que tipo de leitor você é?', mascote robô Teco, modo claro/escuro, avaliações com estrelas e comentários da comunidade escolar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
